@@ -1,8 +1,8 @@
 #!/bin/sh
 
 VER=1.0
-USERNAME="joseph-cheung"
-PROJECT="https://github.com/joseph-cheung/emby-server-crack"
+USERNAME="douglasgustavo"
+PROJECT="https://github.com/douglasgustavo/emby-server-crack"
 PROJECT_NAME="emby-server-crack"
 BRANCH="main"
 GITHUB_CDN="https://cdn.jsdelivr.net/gh"
@@ -11,7 +11,7 @@ CRACK_CONFIG=".config"
 
 EMBY_VERSION_FILE="lastversion.txt"
 DOCKER_EMBY_CONFIG_PATH="/config"
-DOCKER_EMBY_SYSTEM_PATH="/system"
+DOCKER_EMBY_SYSTEM_PATH="/app/emby"
 LINUX_EMBY_CONFIG_PATH="/var/lib/emby"
 LINUX_EMBY_SYSTEM_PATH="/opt/emby-server/system"
 PLATFORM_DOCKER="docker"
