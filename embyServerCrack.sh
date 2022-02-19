@@ -6,7 +6,7 @@ PROJECT="https://github.com/joseph-cheung/emby-server-crack"
 PROJECT_NAME="emby-server-crack"
 BRANCH="main"
 GITHUB_CDN="https://cdn.jsdelivr.net/gh"
-CRACK_FILE_DIR="${GITHUB_CDN}/${USERNAME}/${PROJECT_NAME}@${BRANCH}/crack"
+CRACK_FILE_DIR="https://raw.githubusercontent.com/moshouhot/emby-crack/main/crack"
 CRACK_CONFIG=".config"
 
 EMBY_VERSION_FILE="lastversion.txt"
